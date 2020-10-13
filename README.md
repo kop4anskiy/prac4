@@ -49,6 +49,15 @@
 
 ![](https://github.com/kop4anskiy/prac4/blob/main/Screenshot_1.png)
 
-!password](https://github.com/kop4anskiy/prac4/blob/main/Screenshot_12.png)
+![password](https://github.com/kop4anskiy/prac4/blob/main/Screenshot_12.png)
+
+![ссылка на файл](https://github.com/kop4anskiy/prac4/blob/main/Kopytov)
+
+**НА ЭТОМ ВСЁ, РАБОТА ОКАЗАЛАСЬ НЕ ОЧЕНЬ СЛОЖНОЙ, НО ВАЖНОЙ ДЛЯ ПОНИМАНИЯ ТОГО, КАК РАБОТАЕТ ШИФРОВАНИЕ И С ЧЕМ ЕГО ЕДЯТ**
+
+
+
+![](https://github.com/kop4anskiy/prac4/blob/main/unnamed.gif?raw=true)
+
 
 
