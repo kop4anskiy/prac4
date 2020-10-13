@@ -29,4 +29,26 @@
 
 ![](https://raw.githubusercontent.com/kop4anskiy/prac4/main/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
 
+![](https://github.com/kop4anskiy/prac4/blob/main/tenor.gif?raw=true) 
+
+***ПЕРЕЙДЕМ К ВЕРАСРУПТ***
+
+**Создадим для начала том в верасрипте**
+
+![](https://raw.githubusercontent.com/kop4anskiy/prac4/main/Screenshot_10.png)
+
+![](https://raw.githubusercontent.com/kop4anskiy/prac4/main/Screenshot_11.png)
+
+**Далее смонтируем том и создадим там файлик**
+
+![](https://github.com/kop4anskiy/prac4/blob/main/Screenshot_3.png)
+
+![](https://github.com/kop4anskiy/prac4/blob/main/Screenshot_2.png)
+
+**Файлик внутри уже тусуется**
+
+![](https://github.com/kop4anskiy/prac4/blob/main/Screenshot_1.png)
+
+!password](https://github.com/kop4anskiy/prac4/blob/main/Screenshot_12.png)
+
 
