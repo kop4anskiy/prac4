@@ -47,7 +47,7 @@
 
 **Файлик внутри уже тусуется**
 
-**ПАРОЛЬ OsnInfBez2020*                  **
+**ПАРОЛЬ OsnInfBez2020*                  
 
 ![](https://github.com/kop4anskiy/prac4/blob/main/txt.png)
 
