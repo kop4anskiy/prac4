@@ -47,6 +47,8 @@
 
 **Файлик внутри уже тусуется**
 
+***ПАРОЛЬ OsnInfBez2020* ***
+
 ![](https://github.com/kop4anskiy/prac4/blob/main/Screenshot_1.png)
 
 ![password](https://github.com/kop4anskiy/prac4/blob/main/Screenshot_12.png)
